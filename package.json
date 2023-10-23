@@ -1,0 +1,23 @@
+{
+  "name": "notion-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "eslint": "^8.52.0",
+    "typescript": "^5.2.2",
+    "@typescript-eslint/eslint-plugin": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.0",
+    "@types/node": "20.8.7"
+  },
+  "keywords": [
+    "notion",
+    "react",
+    "nextjs",
+    "monorepo",
+    "trpc"
+  ],
+  "author": "Madhusudhan R",
+  "license": "MIT"
+}
