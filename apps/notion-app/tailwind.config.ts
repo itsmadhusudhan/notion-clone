@@ -8,5 +8,6 @@ const config: Config = {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
     "../../packages/notion-ui/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  darkMode: ["class"],
 };
 export default config;
